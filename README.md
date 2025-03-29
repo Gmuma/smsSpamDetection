@@ -18,7 +18,7 @@ This project is an SMS Spam Detection System that uses Natural Language Processi
 
 **📂 Project Structure**
 
-    SMS-Spam-Detection/
+  SMS-Spam-Detection/
   │-- app.py               # Streamlit web app
   
   │-- model.pkl            # Trained ML model
