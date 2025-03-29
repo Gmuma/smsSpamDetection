@@ -2,4 +2,3 @@ streamlit
 spacy
 scikit-learn
 nltk
-pickle5
